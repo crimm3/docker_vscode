@@ -1,0 +1,16 @@
+###### Requirements without Version Specifiers ######`
+pip
+numpy
+pandas
+scipy
+scikit-learn
+ipykernel
+
+keras
+tensorflow
+tensorflow-gpu
+
+xgboost
+lightgbm
+
+###### Requirements with Version Specifiers ######
