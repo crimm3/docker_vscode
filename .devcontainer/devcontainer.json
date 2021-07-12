@@ -40,6 +40,12 @@
 		"coenraads.bracket-pair-colorizer-2",
 		"oderwat.indent-rainbow",
 		"naumovs.color-highlight",
+		"hediet.vscode-drawio",
+		"mechatroner.rainbow-csv",
+		"formulahendry.auto-rename-tag",
+		"formulahendry.auto-close-tag",
+		"christian-kohler.path-intellisense",
+		"alefragnani.bookmarks",
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
