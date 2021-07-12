@@ -1,16 +1,24 @@
 ###### Requirements without Version Specifiers ######`
 pip
+ipykernel
+
+# datascience
+scikit-learn
+matplotlib
 numpy
 pandas
 scipy
-scikit-learn
-ipykernel
+seaborn
 
+# web
+requests
+bs4
+
+# machine learning
 keras
 tensorflow
-tensorflow-gpu
-
 xgboost
 lightgbm
+
 
 ###### Requirements with Version Specifiers ######
